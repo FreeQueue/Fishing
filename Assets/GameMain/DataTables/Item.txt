@@ -1,0 +1,13 @@
+﻿#	动态加载资源配置表				
+#	Id		Name	AssetId	ItemGroupId
+#	int		string	int	int
+#	配置编号	策划备注	物体名字	资源ID	物体组Id
+	1001	格物品	GridItem	2001	1001
+	1002	物品格	ItemGrid	2002	1002
+	1003	主菜单按钮	MainMenuButton	2003	1003
+	1004	进度条	Percentage	2004	1003
+	1005	岩石	Rock	2005	1003
+	1006	捕捉手	Catcher	2006	1003
+	1007	鱼	Fish	2007	1003
+	1008	商店物品格	StoreItemGrid	2008	1001
+	1009	BUFF条	BuffBar	2009	1002

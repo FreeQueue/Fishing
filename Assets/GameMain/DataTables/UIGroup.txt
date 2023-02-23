@@ -1,0 +1,11 @@
+﻿#	UI组配置表			
+#	Id		Name	Depth
+#	int		string	int
+#	配置编号	策划备注	UI组名字	深度
+	101	主菜单	MainMenu	10
+	102	游戏主界面	MainGame	20
+	103	主界面信息	MainGameInfo	30
+	104	UI信息界面	UIInfo	40
+	105	对话界面	Dialog	50
+	106	上层信息界面	Info	60
+	107	顶层	Top	70

@@ -1,0 +1,9 @@
+﻿#	钓竿配置表										
+#	Id		Level	Percentage	CatcherScale	ExtraChance	Level1	Level2	Level3	Level4	Level5
+#	int		int	int	int	int	int	int	int	int	int
+#	配置编号	策划备注	钓竿等级	初始进度	捕捉手大小	额外战利品概率	等级1	等级2	等级3	等级4	等级5
+	1	一级钓竿	1	0	100	0	100	0	0	0	0
+	2	二级钓竿	2	8	100	0	60	40	0	0	0
+	3	三级钓竿	3	8	150	0	20	50	30	0	0
+	4	四级钓竿	4	8	150	0	5	25	40	18	12
+	5	五级钓竿	5	8	150	16	2	8	20	40	30

@@ -1,0 +1,7 @@
+﻿#	人物配置表				
+#	Id		CharacterName	NameTag	SpeakVoiceIndex
+#	int		string	string	int
+#	人物编号	策划备注	人物代号	人物名牌	默认说话声音Id
+	1	玩家	Player	我	10001
+	2	万启	Boss	万启	10001
+	3	神秘商人	Trader	神秘商人	10001

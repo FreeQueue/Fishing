@@ -1,0 +1,14 @@
+﻿#	玩家数据配置表			
+#	Id		DataName	DefaultValue
+#	int		string	int
+#	配置编号	备注	数据名称	默认值
+	5001		FortifyNum	0
+	5002		RelicNum	0
+	5003		Strength	5
+	5004		Money	200
+	5005		Day	0
+	5006		DayState	0
+	5007		RodLevel	1
+	5008		Progress	0
+	5009		Lucky	0
+	5010		Damage	1

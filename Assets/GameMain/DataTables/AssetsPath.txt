@@ -1,0 +1,61 @@
+﻿#	资源路径配置表			
+#	Id		AssetPath	ResourceGroupIndexs
+#	int		string	string
+#	资源编号	策划备注	资源名称	资源组Id
+	101	启动场景	Assets/GameMain/Scenes/GameStart/GameStart.unity	0
+	102	菜单场景	Assets/GameMain/Scenes/Menu/Menu.unity	0
+	103	主场景	Assets/GameMain/Scenes/MainGame/MainGame.unity	0
+#UI				
+	1001	主界面	Assets/GameMain/UI/UIForms/UIMainGameForm.prefab	0
+	1002	背包	Assets/GameMain/UI/UIForms/UIBagForm.prefab	0
+	1003	物品提示	Assets/GameMain/UI/UIForms/UIItemTipsForm.prefab	0
+	1004	物品介绍	Assets/GameMain/UI/UIForms/UIItemDescriptionForm.prefab	0
+	1005	商店	Assets/GameMain/UI/UIForms/UIStoreForm.prefab	0
+	1006	主菜单	Assets/GameMain/UI/UIForms/UIMainMenuForm.prefab	0
+	1007	确认弹窗	Assets/GameMain/UI/UIForms/UIConfirmForm.prefab	0
+	1008	提示弹窗	Assets/GameMain/UI/UIForms/UITipsForm.prefab	0
+	1009	提示泡	Assets/GameMain/UI/UIForms/UITipsPopForm.prefab	0
+	1010	对话框	Assets/GameMain/UI/UIForms/UIDialogForm.prefab	0
+	1011	加载界面	Assets/GameMain/UI/UIForms/UILoadForm.prefab	0
+	1012	帮助界面	Assets/GameMain/UI/UIForms/UIHelperForm.prefab	0
+	1013	交互提示	Assets/GameMain/UI/UIForms/UIInteractForm.prefab	0
+	1014	购买物品	Assets/GameMain/UI/UIForms/UIItemSoldForm.prefab	0
+	1015	倒计时	Assets/GameMain/UI/UIForms/UICountDownForm.prefab	0
+	1016	钓鱼界面	Assets/GameMain/UI/UIForms/UIFishingForm.prefab	0
+	1017	奖励界面	Assets/GameMain/UI/UIForms/UIRewardForm.prefab	0
+	1018	解析界面	Assets/GameMain/UI/UIForms/UIAnalysisForm.prefab	0
+	1019	提交界面	Assets/GameMain/UI/UIForms/UISubmitForm.prefab	0
+	1020	使用物品	Assets/GameMain/UI/UIForms/UIItemUseForm.prefab	0
+	1021	晚安界面	Assets/GameMain/UI/UIForms/UIDayChangeForm.prefab	0
+#Item				
+	2001	格物品	Assets/GameMain/UI/UIItems/GridItem.prefab	0
+	2002	物品格	Assets/GameMain/UI/UIItems/ItemGrid.prefab	0
+	2003	主菜单按钮	Assets/GameMain/UI/UIItems/MainMenuButton.prefab	0
+	2004	进度条	Assets/GameMain/UI/UIItems/Percentage.prefab	0
+	2005	岩石	Assets/GameMain/UI/UIItems/Rock.prefab	0
+	2006	捕捉手	Assets/GameMain/UI/UIItems/Catcher.prefab	0
+	2007	鱼	Assets/GameMain/UI/UIItems/Fish.prefab	0
+	2008	商店物品格	Assets/GameMain/UI/UIItems/StoreItemGrid.prefab	0
+	2009	BUFF条	Assets/GameMain/UI/UIItems/BuffBar.prefab	0
+#Entity				
+	3001	玩家	Assets/GameMain/Entity/Player.prefab	0
+	3002	万启	Assets/GameMain/Entity/Boss.prefab	0
+	3003	神秘商人	Assets/GameMain/Entity/Trader.prefab	0
+	3004	码头	Assets/GameMain/Entity/Wharf.prefab	0
+	3005	门	Assets/GameMain/Entity/Door.prefab	0
+#Sound				
+	10001	哇哦	Assets/GameMain/Sounds/UI/voice1.mp3	0
+	10002	昼夜	Assets/GameMain/Sounds/SFX/昼夜.wav	0
+	10003	升级	Assets/GameMain/Sounds/UI/升级.wav	0
+	10004	失败	Assets/GameMain/Sounds/UI/失败.wav	0
+	10005	特殊物品	Assets/GameMain/Sounds/UI/特殊物品.wav	0
+	10006	获得物品	Assets/GameMain/Sounds/UI/获得物品.wav	0
+	10007	杂项1	Assets/GameMain/Sounds/UI/杂项1.wav	0
+	10008	水滴1	Assets/GameMain/Sounds/UI/水滴1.wav	0
+	10009	水滴2	Assets/GameMain/Sounds/UI/水滴2.wav	0
+	10010	菜单1	Assets/GameMain/Sounds/UI/菜单1.wav	0
+	10011	菜单2	Assets/GameMain/Sounds/UI/菜单2.wav	0
+	10012	菜单3	Assets/GameMain/Sounds/UI/菜单3.wav	0
+	10013	背景	Assets/GameMain/Sounds/Music/背景.mp3	0
+	10014	钓鱼	Assets/GameMain/Sounds/Music/钓鱼.wav	0
+#				

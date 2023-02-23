@@ -1,0 +1,8 @@
+﻿#	BUFF配置表									
+#	Id		Effect	ImageID	Description	Level1	Level2	Level3	Level4	Level5
+#	int		string	int	string	int	int	int	int	int
+#	配置编号	策划备注	效果	图片	描述	等级1	等级2	等级3	等级4	等级5
+	4001	初始进度增加	Progress	45	初始进度增加{0}。	5	10	15	20	25
+	4002	增加高等级物品概率	Lucky	46	增加高等级物品概率{0}。	5	10	15	20	25
+	4003	增加鱼竿攻击力	Damage	47	增加鱼竿攻击力{0}。	1	2	3	4	5
+	4004	清除所有当前效果	Clear	3	这个属性不该出现在这！value{0}	0	0	0	0	0

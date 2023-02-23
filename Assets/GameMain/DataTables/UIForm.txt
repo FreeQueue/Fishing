@@ -1,0 +1,25 @@
+﻿#	界面配置表						
+#	Id		Name	UIGroupId	AssetId	AllowMultiInstance	PauseCoveredUIForm
+#	int		string	int	int	bool	bool
+#	界面编号	策划备注	界面名字	界面组Id	资源Id	是否允许多个界面实例	是否暂停被其覆盖的界面
+	1001	游戏主面板	UIMainGameForm	102	1001	FALSE	TRUE
+	1002	背包	UIBagForm	102	1002	FALSE	TRUE
+	1003	物品提示	UIItemTipsForm	104	1003	TRUE	FALSE
+	1004	物品介绍	UIItemDescriptionForm	104	1004	FALSE	TRUE
+	1005	商店	UIStoreForm	102	1005	FALSE	TRUE
+	1006	主菜单	UIMainMenuForm	101	1006	FALSE	TRUE
+	1007	确认弹窗	UIConfirmForm	106	1007	TRUE	TRUE
+	1008	提示弹窗	UITipsForm	106	1008	TRUE	TRUE
+	1009	提示泡	UITipsPopForm	106	1009	TRUE	FALSE
+	1010	对话框	UIDialogForm	105	1010	TRUE	TRUE
+	1011	加载界面	UILoadForm	107	1011	FALSE	TRUE
+	1012	帮助界面	UIHelperForm	102	1012	FALSE	TRUE
+	1013	交互提示	UIInteractForm	103	1013	FALSE	TRUE
+	1014	购买物品	UIItemSoldForm	104	1014	FALSE	TRUE
+	1015	倒计时	UICountDownForm	104	1015	FALSE	FALSE
+	1016	钓鱼界面	 UIFishingForm	102	1016	FALSE	TRUE
+	1017	奖励界面	UIRewardForm	102	1017	FALSE	TRUE
+	1018	解析界面	UIAnalysisForm	102	1018	FALSE	TRUE
+	1019	提交界面	UISubmitForm	102	1019	FALSE	TRUE
+	1020	使用物品	UIItemUseForm	104	1020	FALSE	TRUE
+	1021	晚安界面	UIDayChangeForm	107	1021	FALSE	TRUE
