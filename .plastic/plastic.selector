@@ -1,4 +1,0 @@
-repository "Fishing@ssl://fzu2dgame2021@sh02-plasticscm.unity.cn:8787"
-  path "/"
-    smartbranch "/main" 
-     
